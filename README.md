@@ -2,7 +2,7 @@
 
 # Friday Challenge
 
-_website design project_
+Web design project
 
 <br>
 
