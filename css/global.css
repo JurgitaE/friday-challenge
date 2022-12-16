@@ -11,11 +11,10 @@ body * {
     margin: 0;
     box-sizing: border-box;
     font-size: 16px;
+    line-height: 19.5px;
 }
 
 body {
     font-family: "Montserrat", sans-serif;
     background-color: #e5e5e5;
-
-   
 }
