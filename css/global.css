@@ -1,9 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
 :root {
     --main-color: #02577a;
     --secondary-color: #f7f6ff;
     --inactive-color: #c4c4c4;
 }
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 body,
 body * {
@@ -12,9 +13,11 @@ body * {
     box-sizing: border-box;
     font-size: 16px;
     line-height: 19.5px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
 }
 
 body {
-    font-family: "Montserrat", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
     background-color: #ebeef5;
 }
