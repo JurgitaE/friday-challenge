@@ -37,8 +37,7 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    padding: 17px 0;
-    padding-left: 30px;
+    padding: 17px 0 17px 30px;
     text-decoration: none;
     color: transparent;
     background-color: var(--secondary-color);
@@ -69,8 +68,7 @@
     width: calc(100% - 11px);
     border-radius: 25px 0px 0px 25px;
     background-color: #fff;
-    margin-bottom: 17px;
-    margin-left: 11px;
+    margin: 0 0 17px 11px;
 }
 
 .footer {
